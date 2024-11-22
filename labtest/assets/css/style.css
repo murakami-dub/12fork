@@ -1,0 +1,28 @@
+/* style.css */
+:root {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+body {
+    font-family: 'Sixtyfour Convergence', sans-serif;
+}
+header {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 1rem 0;
+}
+main {
+    padding: 2rem;
+}
+footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
